@@ -3,8 +3,8 @@ import java.util.Scanner;
  * This class is used to classify the
  * ordering of four integers.
  *
- * This class was made as a part
- * of the COMP SCI 200 curriculum.
+ * This class was made in tandem with
+ * the COMP SCI 200 curriculum.
  *
  * @author James Milgram
  */
