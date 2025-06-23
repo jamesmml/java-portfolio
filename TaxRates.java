@@ -5,8 +5,8 @@ import java.util.Scanner;
  * calculates the tax according to
  * the U.S. 1913 tax rates.
  *
- * This class was made as a part
- * of the COMP SCI 200 curriculum.
+ * This class was made in tandem with
+ * the COMP SCI 200 curriculum.
  *
  * @author James Milgram
  */
