@@ -4,7 +4,9 @@
 This repository contains various Java programs/classes created in tandem with COMP SCI 200.
 
 ## Contents
-Fibonacci.java
+FibonacciRecursion.java
+
+FibonacciWithLooping.java
 
 Lottery.java
 
