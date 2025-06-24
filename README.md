@@ -4,6 +4,8 @@
 This repository contains various Java programs/classes created in tandem with COMP SCI 200.
 
 ## Contents
+ComplementaryStrands.java - refactoring required: string methods -> eliminate some looping,  validation logic -> consolidate into methods
+
 FibonacciRecursion.java
 
 FibonacciWithLooping.java
