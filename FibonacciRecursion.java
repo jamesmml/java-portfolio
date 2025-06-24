@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author James Milgram
  */
-public class Fibonacci {
+public class FibonacciRecursion {
     /**
      * This method calculates the value of
      * the fibonacci sequence at a specified
