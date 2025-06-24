@@ -4,17 +4,13 @@
 This repository contains various Java programs/classes created in tandem with COMP SCI 200.
 
 ## Contents
-ComplementaryStrands.java - refactoring required: string methods -> eliminate some looping,  validation logic -> consolidate into methods
-
-FibonacciRecursion.java
-
-FibonacciWithLooping.java
-
-Lottery.java
-
-NumberOrdering.java
-
-TaxRates.java
+All files are located in the [COMPSCI200](COMPSCI200/) directory.
+- [ComplementaryStrands.java](COMPSCI200/ComplementaryStrands.java) - refactoring required: string methods -> eliminate some looping,  validation logic -> consolidate into methods
+- [FibonacciRecursion.java](COMPSCI200/FibonacciRecursion.java)
+- [FibonacciWithLooping.java](COMPSCI200/FibonacciWithLooping.java)
+- [Lottery.java](COMPSCI200/Lottery.java)
+- [NumberOrdering.java](COMPSCI200/NumberOrdering.java)
+- [TaxRates.java](COMPSCI200/TaxRates.java)
 
 ## How to Run
 You can run these projects using any Java IDE:
@@ -27,7 +23,7 @@ You can run these projects using any Java IDE:
 1. Clone this repository:
 git clone https://github.com/jamesmml/java-projects.git
 2. Open the cloned project folder in your IDE
-3. Run the `Main` class
+3. Run the `main` class
 
 ## What One Will Learn
 These projects have helped me implement what I have learned in class.
