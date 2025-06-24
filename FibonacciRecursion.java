@@ -13,7 +13,7 @@ public class FibonacciRecursion {
     /**
      * This method calculates the value of
      * the fibonacci sequence at a specified
-     * index.
+     * index via recursion.
      * @param index An index in the fibonacci sequence
      * @return The value at the specified index
      */
