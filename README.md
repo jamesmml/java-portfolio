@@ -27,7 +27,7 @@ git clone https://github.com/jamesmml/java-projects.git
 3. Run the `main` class
 
 ## What One Will Learn
-These projects have helped me implement what I have learned in class.
+These projects have helped reinforce fundamental programming concepts in Java.
 
 ## Author
 James Milgram
