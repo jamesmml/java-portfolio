@@ -1,7 +1,8 @@
 # Java Projects
 
 ## Description
-This repository contains various Java programs/classes created in tandem with COMP SCI 200.
+These projects were developed as part of an introductory CS course to practice applying algorithmic thinking in Java. 
+While the logic is foundationgital, the goal was to build fluency in OOP and syntax distinct from Python.
 
 ## Contents
 All files are located in the [COMPSCI200](COMPSCI200/) directory.
